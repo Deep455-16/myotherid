@@ -23,6 +23,6 @@ Full Stack Developer/Student-MUJ/AI-ML Enthusiast<br>
 ![](https://github-contributor-stats.vercel.app/api?username=Deep455-16&limit=5&theme=shadow_blue&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Deep455-16&icon=1&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=Deep455-16&icon=1&color=0)](https://visitcount.itsvg.in).
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
